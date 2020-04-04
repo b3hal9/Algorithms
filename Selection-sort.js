@@ -1,7 +1,7 @@
 let selectionSort=items=> {
     let length = items.length;
     let i,j
-	for ( i = 0; i <= length; i++) {
+	for ( i = 0; i <length; i++) {
 		
 		let min = i; 
 		for ( j = i + 1; j < length; j++) { 

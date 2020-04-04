@@ -27,4 +27,3 @@ function merge_sort(data){
 let data=[4,3,5,2,6,1,8,7,9]
 console.log(merge_sort(data))
 
-
